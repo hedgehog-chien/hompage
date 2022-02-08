@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&family=Noto+Sans+TC:wght@300&display=swap');
+
+
+html {
+  height: 100%;
+
+}
+
+body {
+  background-image: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  font-family: 'Mate SC', serif;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+nav {
+  background-color: #fff;
+  opacity: 90%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.quick-btn span:hover {
+  border: solid 1px #fff;
+}
+
+h2 {
+  padding-bottom: 5px;
+  border-bottom: solid 2px #80e2e1;
+}
